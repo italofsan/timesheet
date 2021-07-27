@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+>
+  <div
+    className="MuiPaper-root MuiTableContainer-root MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <table
+      className="MuiTable-root"
+      role={null}
+    >
+      <caption
+        style={
+          Object {
+            "backgroundColor": "rgb(143,125,238)",
+            "color": "#FFF",
+          }
+        }
+      >
+        You have 0  registers!
+      </caption>
+      <thead
+        className="MuiTableHead-root"
+        role={null}
+      >
+        <tr
+          className="MuiTableRow-root MuiTableRow-head"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head makeStyles-tableCellHeadOdd-2 MuiTableCell-alignCenter"
+            scope="col"
+          >
+            Options
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head makeStyles-tableCellHeadOdd-2 MuiTableCell-alignCenter"
+            scope="col"
+          >
+            Date
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head makeStyles-tableCellHeadOdd-2 MuiTableCell-alignCenter"
+            scope="col"
+          >
+            Arrival
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head makeStyles-tableCellHeadOdd-2 MuiTableCell-alignCenter"
+            scope="col"
+          >
+            Lunch Exit
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head makeStyles-tableCellHeadOdd-2 MuiTableCell-alignCenter"
+            scope="col"
+          >
+            Lunch Arrival
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head makeStyles-tableCellHeadOdd-2 MuiTableCell-alignCenter"
+            scope="col"
+          >
+            Exit
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head makeStyles-tableCellHeadOdd-2 MuiTableCell-alignCenter"
+            scope="col"
+          >
+            Worked Hours
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head makeStyles-tableCellHeadOdd-2 MuiTableCell-alignCenter"
+            scope="col"
+          >
+            Overtime
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head makeStyles-tableCellHeadOdd-2 MuiTableCell-alignCenter"
+            scope="col"
+          >
+            Undertime
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        className="MuiTableBody-root"
+        role={null}
+      />
+    </table>
+  </div>
+</div>
+`;

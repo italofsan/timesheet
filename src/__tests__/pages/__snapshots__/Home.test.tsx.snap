@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page component renders correctly 1`] = `
+<div
+  className="makeStyles-root-1"
+>
+  <header
+    className="MuiPaper-root MuiAppBar-root MuiAppBar-positionFixed MuiAppBar-colorPrimary makeStyles-appBar-2 mui-fixed MuiPaper-elevation4"
+  >
+    <div
+      className="MuiContainer-root MuiContainer-maxWidthLg"
+    >
+      <div
+        className="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+      >
+        <h6
+          className="MuiTypography-root makeStyles-title-3 MuiTypography-h6"
+        >
+          Timesheet App
+        </h6>
+      </div>
+    </div>
+  </header>
+  <main
+    className="makeStyles-content-4"
+  >
+    <div
+      className="MuiContainer-root MuiContainer-maxWidthLg"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-center"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-6 MuiGrid-grid-lg-6"
+        >
+          <div
+            className="makeStyles-imageContainer-5"
+          >
+            <img
+              alt="Time Home Page"
+              className="makeStyles-image-6"
+              src="time-homepage.svg"
+            />
+          </div>
+        </div>
+        <div
+          className="MuiGrid-root makeStyles-loginWrapper-7 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-6 MuiGrid-grid-lg-6"
+        >
+          <div
+            className="MuiPaper-root makeStyles-loginContainer-8 MuiPaper-elevation1 MuiPaper-rounded"
+          >
+            <p
+              className="MuiTypography-root makeStyles-loginTitle-9 MuiTypography-body1"
+            >
+              Log In
+            </p>
+            <p
+              className="MuiTypography-root makeStyles-loginSubtitle-10 MuiTypography-body1"
+            >
+              To log in to the application you need to use a Google account
+            </p>
+            <button
+              className="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-loginButton-11 MuiButton-containedSizeSmall MuiButton-sizeSmall"
+              disabled={false}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onDragLeave={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              role="loginButton"
+              tabIndex={0}
+              type="button"
+            >
+              <span
+                className="MuiButton-label"
+              >
+                Login With Google
+              </span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+`;

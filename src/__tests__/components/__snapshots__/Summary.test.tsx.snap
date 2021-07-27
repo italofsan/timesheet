@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+Array [
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-4"
+  >
+    <div
+      className="MuiPaper-root makeStyles-workedHoursSummaryContainer-1 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <p
+        className="MuiTypography-root makeStyles-workedHoursSummaryValue-3 MuiTypography-body1"
+      />
+      <p
+        className="MuiTypography-root makeStyles-workedHoursSummaryTitle-2 MuiTypography-body1"
+      >
+        Total Worked Hours
+      </p>
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root makeStyles-arrowIcon-9"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M13 3c-4.97 0-9 4.03-9 9H1l3.89 3.89.07.14L9 12H6c0-3.87 3.13-7 7-7s7 3.13 7 7-3.13 7-7 7c-1.93 0-3.68-.79-4.94-2.06l-1.42 1.42C8.27 19.99 10.51 21 13 21c4.97 0 9-4.03 9-9s-4.03-9-9-9zm-1 5v5l4.28 2.54.72-1.21-3.5-2.08V8H12z"
+        />
+      </svg>
+    </div>
+  </div>,
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-lg-4"
+  >
+    <div
+      className="MuiPaper-root makeStyles-summaryContainer-4 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <p
+        className="MuiTypography-root makeStyles-overtimeHoursSummaryValue-7 MuiTypography-body1"
+      >
+        00:00
+      </p>
+      <p
+        className="MuiTypography-root makeStyles-summaryTitle-5 MuiTypography-body1"
+      >
+        Total Overtime Hours
+      </p>
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root makeStyles-arrowIcon-9"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"
+        />
+      </svg>
+    </div>
+  </div>,
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-lg-4"
+  >
+    <div
+      className="MuiPaper-root makeStyles-summaryContainer-4 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <p
+        className="MuiTypography-root makeStyles-undertimeHoursSummaryValue-8 MuiTypography-body1"
+      >
+        00:00
+      </p>
+      <p
+        className="MuiTypography-root makeStyles-summaryTitle-5 MuiTypography-body1"
+      >
+        Total Undertime Hours
+      </p>
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root makeStyles-arrowIcon-9"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M20 12l-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8 8-8z"
+        />
+      </svg>
+    </div>
+  </div>,
+]
+`;
