@@ -40,12 +40,15 @@ It is possible to see a production preview https://italofsan-timesheet.netlify.a
 - [TypeScript](https://www.typescriptlang.org/)
 - [Material UI](https://material-ui.com)
 - [React Router Dom](https://reactrouter.com/web/guides/quick-start)
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 - [React Number Format](https://github.com/s-yadav/react-number-format#readme)
 - [Formik](https://formik.org/docs/overview)
 - [Toastify](https://fkhadra.github.io/react-toastify/introduction)
 - [Yup](https://github.com/jquense/yup#readme)
 - [Axios](https://github.com/axios/axios#readme)
+
+## Testing Tools
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+- [Jest](https://jestjs.io)
 
 ## Create React App
 
