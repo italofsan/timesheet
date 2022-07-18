@@ -16,7 +16,7 @@ It is possible to see a production preview https://italofsan-timesheet.netlify.a
   # Put these commands at the command prompt 
 
   # Clone this repository:
-  $ git clone https://gitlab.com/italofsan/timesheet-app.git
+  $ git clone https://github.com/italofsan/timesheet-app.git
 
   # Go to the folder:
   $ cd timesheet-app
